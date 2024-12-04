@@ -3,7 +3,7 @@
 #
 version: 1.0
 app:
-  version: "770a020a-0104-4e9a-a49e-0d594f622dc1"
+  version: "a0e066c4-b5b9-4d9b-9cee-4c4deea86646"
   
   instances:
     min: 1
